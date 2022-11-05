@@ -54,4 +54,3 @@ The outcomes and the conclusions of the dataset might be totally different from 
 We could also create many other tables and graphs from the big data analyzed. For example, only the United States was filtered, other countries could be used to create tables and the results of Louise campaigns could be analyzed as well.
 
 Even, we can create pie chart for the percentage success, failure and cancel rates etc.
-![image](https://user-images.githubusercontent.com/108506115/200132853-2e5e5ecd-41c8-428c-adb3-e0da0af96d04.png)
